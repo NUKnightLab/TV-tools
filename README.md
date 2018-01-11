@@ -13,3 +13,4 @@ Not broadcast television, but related to captions in HTML5 video streaming:
 
  * https://github.com/slifty/opened-captions
  * https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API
+ * https://openedcaptions.com/ uses opened-captions to serve C-SPAN
